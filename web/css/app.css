@@ -1,0 +1,86 @@
+.docheader{
+    background-color: #8F1D21;
+    border-top: 1px solid #50c1e9;
+    padding-top: 50px;
+    color:#FFFFFF;
+}
+.topic{padding: 50px 0 60px;position: relative; background-color: #e1f5fe;}
+.navbar-custom {
+    background-color: rgba(255, 255, 255, 0.9);
+    border: medium none;
+    border-radius: 0;
+    left: 0;
+   position: fixed; 
+    top: 0;
+    width: 100%;
+    z-index: 100;
+    color: #8F1D21;
+}
+
+.tab-bars{
+    background-color:#89C4F4;
+}
+.footercustom {
+    background-color: #044F67;
+    padding: 20px 0 60px 0;
+     bottom: 0;
+}
+.mailline{
+	background: rgba(255, 255, 255, 0.25) url('../images/mailline.jpg') repeat scroll 0 0;
+    bottom: 0;
+    padding-bottom: 15px;
+    padding-top: 5px;
+    position: absolute;
+    width: 100%;
+}
+.mainbody{
+    padding:1em;
+}
+.table{
+    font-size: 1em;
+}
+
+/*.dropdown-menu{
+    z-index:1100;
+}*/
+.modal-backdrop{
+    z-index:900;
+}
+.modal-dialog{
+    z-index:1000;
+}
+.datepicker.dropdown-menu{
+    background-color: #FFF;
+}
+.btn-group .btn{
+    padding: 6px;
+    line-height: 1;
+    font-size: 0.8em;
+}
+.table-mini{
+    font-size: 0.8em;
+}
+.navbar-nav .open .dropdown-menu{
+    background-color:#434a54;
+}
+.table-list-mini{
+    font-size: 0.9em;
+}
+.dataTables_filter input {width:400px}
+.checkbox110{
+    transform:scale(1.5);
+}
+.checkbox111{
+    transform:scale(1.5);
+}
+
+.selectize-dropdown .selectize-dropdown-content .option.active{
+    background-color:#80bfff;
+}
+
+.navbar-toggle {
+   
+    float: left;
+    
+    margin-left: 15px;
+}

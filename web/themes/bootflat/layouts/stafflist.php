@@ -1,0 +1,5 @@
+
+<u>สัญลักษณ์</u> <span class="badge badge-default"><i class="fa fa-lock text-danger"></i></span> จะแสดงถึงพัสดุที่ยังไม่ได้ลงทะเบียนหรือพัสดุที่ถูกเพิ่มเข้ามาใหม่ เจ้าหน้าที่ผู้รับผิดชอบจะต้อง คลิ๊กปุ่ม <span class="label label-info"><i class="fa fa-cogs"></i></span> เพื่อ จัดการกับพัสดุต่อไป<br>
+<u>การรวมกลุ่ม</u> <span class="label label-info"><i class="fa fa-compress"></i> รวมกลุ่ม</span> เป็นฟังก์ชัน ที่จะใช้ในกรณีที่ พัสดุจำนวนน้อยๆ สามารถนำพัสดุที่มีรูปแบบที่เหมือนกันมารวมกลุ่มเป็นเอกสาร ชุดเดียวกันได้ โดยเลือก <input type="checkbox" class="listitembox" name="listitembox" checked><br>
+พัสดุที่ต้องการเป็นกลุ่มเดียวกัน และกด <span class="label label-info"><i class="fa fa-compress"></i> รวมกลุ่ม</span><br>
+<u>การรับรองกลุ่ม</u> <span class="label label-warning"> G:000</span> จะเป็นการรับรองเอกสารที่จัดการเสร็จเรียบร้อยแล้ว สถานะจาก <span class="badge badge-default"><i class="fa fa-lock text-danger"></i></span> จะเปลี่ยนเป็น <span class="badge badge-default"><i class="fa fa-check-square text-success"></i></span>

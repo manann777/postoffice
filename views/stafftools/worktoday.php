@@ -29,7 +29,7 @@ $array_color =['label-warning','label-danger','label-primary','label-danger','la
 $label = ['label-normal','label-default','label-primary','label-success','label-info','label-warning','label-danger','label-info','label-success'];
 
 ?>
-
+<? // HELLO GIT ?>
 <? $date = ($date?$date:date('Y-m-d'));
 		 	$str = "";
 		 	$icon ="";
